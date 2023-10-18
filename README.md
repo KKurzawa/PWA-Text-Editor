@@ -9,7 +9,7 @@ A text editor that runs in the browser. The app is a single-page application tha
 
 Upon opening the application in VSCode a client/server folder structure is present.
 
-Screenshots:
+![screenshot1](./client/src/images/screenshots/screenshot1.png)
 
 Github Repository: https://github.com/KKurzawa/PWA-Text-Editor
 
