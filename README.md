@@ -16,9 +16,9 @@ When the text application is run in the terminal the the backend starts and is s
 ![screenshot2](./client/src/images/screenshots/Screenshot2.png)
 
 
-Github Repository: https://github.com/KKurzawa/PWA-Text-Editor
+[Github Repository](https://github.com/KKurzawa/PWA-Text-Editor)
 
-Heroku URL: [Demo](https://peaceful-ridge-09824-adb7633d5ee0.herokuapp.com/)
+[Demo](https://peaceful-ridge-09824-adb7633d5ee0.herokuapp.com/)
 
 
 
