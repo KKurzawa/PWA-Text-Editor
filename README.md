@@ -18,7 +18,7 @@ When the text application is run in the terminal the the backend starts and is s
 
 Github Repository: https://github.com/KKurzawa/PWA-Text-Editor
 
-Heroku URL: https://lit-scrubland-19330-d08adf7d27a4.herokuapp.com/
+Heroku URL: [demo](https://peaceful-ridge-09824-adb7633d5ee0.herokuapp.com/){target="_blank"}
 
 ## Credits
 
