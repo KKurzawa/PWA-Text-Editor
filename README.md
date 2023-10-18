@@ -11,6 +11,11 @@ Upon opening the application in VSCode a client/server folder structure is prese
 
 ![screenshot1](./client/src/images/screenshots/screenshot1.png)
 
+When the text application is run in the terminal the the backend starts and is served to the client, the javascript files are bundled using webpack, and a HTML file, service worker and a manifest file is generated. 
+
+![screenshot2](./client/src/images/screenshots/Screenshot2.png)
+
+
 Github Repository: https://github.com/KKurzawa/PWA-Text-Editor
 
 Heroku URL: https://lit-scrubland-19330-d08adf7d27a4.herokuapp.com/
