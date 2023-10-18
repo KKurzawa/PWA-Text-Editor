@@ -20,6 +20,8 @@ Github Repository: https://github.com/KKurzawa/PWA-Text-Editor
 
 Heroku URL: [demo](https://peaceful-ridge-09824-adb7633d5ee0.herokuapp.com/){target="_blank"}
 
+<a href="https://peaceful-ridge-09824-adb7633d5ee0.herokuapp.com/" target="_blank">Demo</a>
+
 ## Credits
 
 n/a
