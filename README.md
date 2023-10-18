@@ -17,9 +17,20 @@ When the text application is run in the terminal the the backend starts and is s
 
 ![screenshot3](./client/src/images/screenshots/Screenshot3.png)
 
-The application runs without errors while using next-gen javascript.
+The application runs without errors while using next-gen javascript and was deployed through Heroku.  If data is entered into the app and the cursor looses focus that data is saved with IndexedDB.  The data in the DB then repopulates the text editor when the page is refreshed. 
 
-![screenhot4]()
+![screenhot4](./client/src/images/screenshots/Screenshot4.png)
+
+The app uses a registered service worker.
+
+![sreenshot5](./client/src/images/screenshots/Screenshot5.png)
+
+When the Install button is clicked a prompt asks wether or if you would like to install the app.  When you click on Install in the prompt the app is installed to your computer and functions correctly.
+
+![screenshot6](./client/src/images/screenshots/Screenshot6.png)
+
+![screenshot7](./client/src/images/screenshots/Screenshot7.png)
+
 [Github Repository](https://github.com/KKurzawa/PWA-Text-Editor)
 
 [Demo](https://peaceful-ridge-09824-adb7633d5ee0.herokuapp.com/)
@@ -32,7 +43,7 @@ n/a
 
 ## Questions
 
-Github: https://github.com/KKurzawa
+[Github Profile](https://github.com/KKurzawa)
 
 Email me at kurzawa1@yahoo.com for questions.
 
